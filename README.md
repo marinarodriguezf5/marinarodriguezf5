@@ -56,5 +56,3 @@ Análisis de indicadores y métricas empresariales.
 ## 📫 Contact
 
 - LinkedIn: [www.linkedin.com/in/marinarodriguez1717]
-- Email: [marinarodriguezf5@gmail.com]
-- Portfolio: [miweb]
